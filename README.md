@@ -74,7 +74,7 @@
     <div class="container">
         <div class="biography" id="apry-bio">
             <div class="image">
-                <img src="apry.jpeg" alt="Image of Apry">
+                <img src="APRY.jpeg" alt="Image of Apry">
             </div>
             <h1>Apry Malla</h1>
             <p>Apry Malla, born on April 24, 2011, is known for their unique style and love for comfort, often seen in a hoodie and baggy jeans. A devoted dog lover, Apry finds joy in the company of their furry friends. They are deeply inspired by the balance of light and shadow in life, much like the concept of "Ghaam Chaya." Fictional worlds and characters hold a special place in Apry’s heart, showcasing their vivid imagination and creative spirit.</p>
