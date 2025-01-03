@@ -109,7 +109,7 @@
             </div>
             <h1>Apry Malla</h1>
             <p>Apry Malla, born on April 24, 2011, is known for their unique style and love for comfort, often seen in a hoodie and baggy jeans. A devoted dog lover, Apry finds joy in the company of their furry friends. They are deeply inspired by the balance of light and shadow in life, much like the concept of "Ghaam Chaya." Fictional worlds and characters hold a special place in Apry’s heart, showcasing their vivid imagination and creative spirit.</p>
-            <p>Apry’s close-knit circle includes cherished friends such as Garima, Prasiddhi Shistata, and Zade, who share a bond of mutual respect and understanding. Together, they form a tapestry of stories and shared memories, each thread as vibrant and meaningful as the last.</p>
+            <p>Apry’s close friend circle includes cherished friends such as Garima, Prasiddhi Shistata, and Zade as favorate person, who share a bond of mutual respect and understanding. Together, they form a tapestry of stories and shared memories, each thread as vibrant and meaningful as the last.</p>
         </div>
 
         <div class="biography" id="garima-bio">
